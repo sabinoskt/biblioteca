@@ -1,0 +1,322 @@
+09/09/2025 12:34 ['Joana Pires'] (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+09/09/2025 12:36 ['Lucas Reis'] (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+09/09/2025 12:37 ['Lucas Reis'] (Devolvido) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+09/09/2025 16:19 ['Gabriel Wilson'] (Emprestado) | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+09/09/2025 16:20 ['Gabriel Wilson'] (Devolvido) | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+09/09/2025 16:20 ['Gabriel Wilson'] (Emprestado) | Título: O Cortiço Autor: Aluísio Azevedo Ano: 1890
+09/09/2025 16:20 ['Gabriel Wilson'] (Emprestado) | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+09/09/2025 16:21 ['Gabriel Wilson'] (Devolvido) | Título: O Cortiço Autor: Aluísio Azevedo Ano: 1890
+09/09/2025 16:21 ['Gabriel Wilson'] (Devolvido) | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+09/09/2025 16:25 ['Gabriel Santos'] (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+09/09/2025 16:29 ['Marcelo Dias'] (Emprestado) | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+09/09/2025 16:30 ['Marcelo Dias'] (Devolvido) | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+10/09/2025 11:00 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 11:00 marcelo dias (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 11:00 bruno juliano (Emprestado) | Título: O Cortiço Autor: Aluísio Azevedo Ano: 1890
+10/09/2025 11:08 ['gabriel wilson', 'marcelo dias', 'bruno juliano'] (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 11:08 ['gabriel wilson', 'marcelo dias', 'bruno juliano'] (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 11:08 ['gabriel wilson', 'marcelo dias', 'bruno juliano'] (Emprestado) | Título: O Cortiço Autor: Aluísio Azevedo Ano: 1890
+10/09/2025 11:52 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 11:53 marcelo dias (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 11:55 gabriel wilson (Devolvido) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 12:01 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:01 gabriel wilson (Devolvido) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:02 maria eduarda (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:03 maria eduarda (Devolvido) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:03 maria eduarda (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:03 gabriel wilson (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 12:07 maria eduarda (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 12:07 gabriel wilson (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 14:20 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 14:20 marcelo dias (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 14:24 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 14:24 marcelo dias (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 15:20 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 15:21 gabriel wilson (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 15:22 marcelo dias (Emprestado) | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+10/09/2025 15:24 gabriel wilson (Emprestado) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 15:25 marcelo dias (Emprestado) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+10/09/2025 15:25 gabriel wilson (Devolvido) | Título: 1984 Autor: George Orwell Ano: 1949
+10/09/2025 15:25 marcelo dias (Devolvido) | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[10/09/2025 17:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [2]
+[10/09/2025 17:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [1]
+[10/09/2025 17:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [0]
+[10/09/2025 17:06] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967, Estoque: [2]
+[10/09/2025 17:07] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [2]
+[10/09/2025 17:07] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [1]
+[10/09/2025 17:08] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [0]
+[10/09/2025 17:15] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949, Estoque: [0]
+[10/09/2025 17:29] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 17:29] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 17:29] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:34] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:34] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:34] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:35] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:35] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:35] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:36] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:36] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:36] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:40] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:40] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:40] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:44] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:44] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:44] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[10/09/2025 18:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:00] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:00] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:00] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:11] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:11] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:11] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:19] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:23] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:23] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:23] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:38] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:44] | Cliente: gabrie wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:44] | Cliente: gabrie wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:44] | Cliente: gabrie wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:46] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:46] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:46] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:49] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:51] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:52] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:52] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 10:55] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:02] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:05] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:43] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:43] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:43] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:47] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:48] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:50] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:50] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:51] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:51] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:57] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:57] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:58] | Cliente: gabriel wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:58] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[11/09/2025 11:58] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[11/09/2025 11:58] | Cliente: gabriel wilson [Devolvido] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[11/09/2025 11:58] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 11:58] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:13] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:13] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:13] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[11/09/2025 12:13] | Cliente: gabriel wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[11/09/2025 12:14] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:14] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:14] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:14] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:14] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:18] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:18] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:18] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:18] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:18] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:22] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:23] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:23] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:23] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:23] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:24] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:24] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:24] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:24] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:30] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:30] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:30] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:30] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:31] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:31] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:31] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:31] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:32] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:32] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:32] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:32] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:32] | Cliente: gabriel w [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:32] | Cliente: gabriel w [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:32] | Cliente: gabriel w [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:32] | Cliente: gabriel w [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:34] | Cliente: gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:34] | Cliente: gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 12:34] | Cliente: gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 12:34] | Cliente: gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:26] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:26] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:26] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:26] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:30] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:30] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:30] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:30] | Cliente: gabriel wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:33] | Cliente: gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:33] | Cliente: gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:33] | Cliente: gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:33] | Cliente: gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:36] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:36] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:36] | Cliente: Gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:36] | Cliente: Gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:37] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:37] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:37] | Cliente: Gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:37] | Cliente: Gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:50] | Cliente: gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:50] | Cliente: gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:50] | Cliente: gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:50] | Cliente: gabriel Wilson [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:51] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:51] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:51] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:51] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:52] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:52] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:52] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:52] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:53] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:53] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:53] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:53] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:57] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:57] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 14:57] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 14:57] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:00] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:00] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:00] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:00] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:01] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:01] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:01] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:01] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:05] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:05] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:05] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:05] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:09] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:09] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:09] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:09] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:10] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:10] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:10] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:10] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:11] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:11] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:11] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:11] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:14] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:14] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:14] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:14] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:24] | Cliente: gabriel w [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:24] | Cliente: gabriel w [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:24] | Cliente: gabriel w [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:24] | Cliente: gabriel w [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:40] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:40] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:40] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:40] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:41] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:41] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:41] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:41] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:43] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:43] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:43] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:43] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:45] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:45] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:45] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:45] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:49] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:49] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:49] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:49] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:51] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:51] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 15:51] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 15:51] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 16:08] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 16:08] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 16:08] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 16:08] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 16:09] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 16:09] | Cliente: Gabriel W [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 16:09] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 16:09] | Cliente: Gabriel W [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:00] | Cliente: gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:00] | Cliente: gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:00] | Cliente: gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:00] | Cliente: gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:08] | Cliente: Gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:08] | Cliente: Gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:08] | Cliente: Gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:08] | Cliente: Gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:09] | Cliente: Gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:09] | Cliente: Gabriel S [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:10] | Cliente: Gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:10] | Cliente: Gabriel S [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
