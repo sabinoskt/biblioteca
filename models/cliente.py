@@ -32,13 +32,12 @@ class Cliente(Pessoa):
         return False
 
     def devolver(self, livro: Livro):
-        for livros in self.lista_de_livros:
-            if livro in livros:
-                livro.cliente_atual = None
-                livro.devolvido()
-                self.lista_de_livros.remove(livro)
-                return True
-            return False
+        if livro in self.lista_de_livros:
+            livro.cliente_atual = None
+            livro.devolvido()
+            self.lista_de_livros.remove(livro)
+            return True
+        return False
 
     def __str__(self):
         return f"{self.nome} {self.sobrenome}"

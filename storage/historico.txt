@@ -320,3 +320,24 @@
 [11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
 [11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
 [11/09/2025 18:10] | Cliente: Luan V [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 13:54] | Cliente: Pedro H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 13:54] | Cliente: Pedro H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 13:55] | Cliente: Pedro H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 13:55] | Cliente: Pedro H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:02] | Cliente: Gabriel H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:02] | Cliente: Gabriel H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:02] | Cliente: Gabriel H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:02] | Cliente: Gabriel H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:06] | Cliente: Pedro H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:06] | Cliente: Pedro H [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:06] | Cliente: Pedro H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:06] | Cliente: Pedro H [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:18] | Cliente: Fernanda Eduarda [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:18] | Cliente: Fernanda Eduarda [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[12/09/2025 14:18] | Cliente: Fernanda Eduarda [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:18] | Cliente: Fernanda Eduarda [Emprestado] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 14:20] | Cliente: Fernanda Eduarda [Devolvido] | Título: Dom Casmurro Autor: Machado de Assis Ano: 1899
+[12/09/2025 15:05] | Cliente: Karlo Eduardo [Emprestado] | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+[12/09/2025 15:05] | Cliente: Karlo Eduardo [Emprestado] | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+[12/09/2025 15:05] | Cliente: Karlo Eduardo [Devolvido] | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011
+[12/09/2025 15:05] | Cliente: Karlo Eduardo [Devolvido] | Título: Sapiens Autor: Yuval Noah Harari Ano: 2011

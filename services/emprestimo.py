@@ -139,7 +139,7 @@ def devolver_livro(cliente_atual=None):
         maximo=len(livros_emprestados) - 1
     )
 
-    livro_escolhido = livros_emprestados[escolha]
+    livro_escolhido = list(contagem.keys())[escolha]
     status = 'Devolvido'
 
     sucesso = cliente_escolhido.devolver(livro_escolhido)
