@@ -1,11 +1,9 @@
 from models.pessoa import Pessoa
 from models.livro import Livro
-from collections import Counter
 
 
 class Cliente(Pessoa):
     lista_de_cliente = []
-    novo_lista_livro = []
 
     def __init__(self, nome, sobrenome):
         super().__init__(nome, sobrenome)
@@ -38,6 +36,3 @@ class Cliente(Pessoa):
             self.lista_de_livros.remove(livro)
             return True
         return False
-
-    def __str__(self):
-        return f"{self.nome} {self.sobrenome}"

@@ -37,12 +37,19 @@ def mostrar_tela_dos_livros():
     return len(livros), livros
 
 
+def exbir_livros_disponiveis(livros):
+    print(20 * '-' + " LIVROS DISPONÍVEIS " + 20 * '-' + '\n')
+    for i, livro in enumerate(livros):
+        print(f"{i} - {livro}")
+    print('\n' + 22 * '-' + ' ### ' + 20 * '=' + '\n')
+
+
 def cadastrar_cliente():
     print('Cadastro de cliente')
     nome = obter_input_text(prompt='Nome')
     sobrenome = obter_input_text(prompt='Sobrenome')
     cliente = Cliente(nome, sobrenome)
-    print(f"Cliente {nome} {sobrenome} cadastrado com sucesso!")
+    print(f"Cliente {cliente.nome_completo} cadastrado com sucesso!")
     return cliente
 
 
@@ -87,10 +94,7 @@ def emprestar_livro(cliente_atual=None):
         print("Nenhum livro disponível para empréstimo")
         return None
 
-    print(20 * '-' + " LIVROS DISPONÍVEIS " + 20 * '-' + '\n')
-    for i, livro in enumerate(livros_disponiveis):
-        print(f"{i} - {livro}")
-    print('\n' + 22 * '-' + ' ### ' + 20 * '=' + '\n')
+    exbir_livros_disponiveis(livros_disponiveis)
 
     escolha = obter_input_num(
         prompt='Escolha a opção',
@@ -99,12 +103,10 @@ def emprestar_livro(cliente_atual=None):
     )
 
     livro_escolhido = livros_disponiveis[escolha]
-    status = 'Emprestado'
 
-    is_disponivel = cliente_escolhido.emprestar(livro_escolhido)
-    if is_disponivel:
+    if cliente_escolhido.emprestar(livro_escolhido):
         print(f"Livro '{livro_escolhido.titulo}' emprestado com sucesso para {cliente_escolhido}!")
-        salvar_historico(str(cliente_escolhido), livro_escolhido, status)
+        salvar_historico(str(cliente_escolhido), livro_escolhido, 'Emprestado')
         return cliente_escolhido
     else:
         print("Erro: Livro já está emprestado")
@@ -140,11 +142,9 @@ def devolver_livro(cliente_atual=None):
     )
 
     livro_escolhido = list(contagem.keys())[escolha]
-    status = 'Devolvido'
 
-    sucesso = cliente_escolhido.devolver(livro_escolhido)
-    if sucesso:
+    if cliente_escolhido.devolver(livro_escolhido):
         print(f"Livro '{livro_escolhido.titulo}' devolvido com sucesso!")
-        salvar_historico(str(cliente_escolhido), livro_escolhido, status)
+        salvar_historico(str(cliente_escolhido), livro_escolhido, 'Devolvido')
     else:
         print("Erro ao devolver livro")

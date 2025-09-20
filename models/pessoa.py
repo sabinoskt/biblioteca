@@ -3,5 +3,9 @@ class Pessoa:
         self.nome = nome
         self.sobrenome = sobrenome
 
+    @property
+    def nome_completo(self):
+        return f"{self.nome} {self.sobrenome}"
+
     def __str__(self):
-        return f"Nome: {self.nome} {self.sobrenome}"
+        return self.nome_completo
