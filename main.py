@@ -1,41 +1,60 @@
 import os
 from utils.io import obter_input_num
-from services.emprestimo import mostrar_tela_dos_livros, cadastrar_cliente, emprestar_livro, devolver_livro
+from models.cliente import cadastrar_cliente
+from services.emprestimo import mostrar_tela_dos_livros, emprestar_livro, devolver_livro, EmprestimoService
 
-cliente_atual = None
 
-
-def opcao_escolhida(opcao):
+def limpar():
     os.system("cls" if os.name == "nt" else "clear")
-    global cliente_atual
-
-    match opcao:
-        case 1: mostrar_tela_dos_livros()
-        case 2: cliente_atual = cadastrar_cliente()
-        case 3: cliente_atual = emprestar_livro(cliente_atual)
-        case 4: devolver_livro(cliente_atual)
-        case _: print("Não encontrado!!!")
 
 
-# Menu
-def menu():
-    while True:
-        opcoes = [
-            '[1] - Listar livros',
-            '[2] - Cadastrar cliente',
-            '[3] - Emprestar livro',
-            '[4] - Devolver livro',
-            '[5] - Sair'
-        ]
+class Sistema:
+    def __init__(self):
+        self.cliente_atual = None
+        self.emprestimo = EmprestimoService()
 
-        for i in opcoes:
-            print(i)
+    def opcao_escolhida(self, opcao):
+        limpar()
+        match opcao:
+            case 1: mostrar_tela_dos_livros()
+            case 2: self.cliente_atual = cadastrar_cliente()
+            case 3:
+                if self.cliente_atual is None:
+                    print("Nenhum cliente cadastrado!\n")
+                else:
+                    self.cliente_atual = emprestar_livro(self.cliente_atual)
+            case 4:
+                if self.cliente_atual is None:
+                    print("Nenhum cliente cadastrado!\n")
+                else:
+                    devolver_livro(self.emprestimo, self.cliente_atual)
+            case _: print("Não encontrado!!!")
 
-        entrada = int(obter_input_num(prompt='Escolha a opção', minino=1, maximo=len(opcoes)))
-        if entrada == 5:
-            break
-        opcao_escolhida(entrada)
+
+    # Menu
+    def menu(self):
+        while True:
+            opcoes = [
+                'Listar livros',
+                'Cadastrar cliente',
+                'Emprestar livro',
+                'Devolver livro',
+                'Sair'
+            ]
+
+            print('*'*20)
+            print(' MENU '.center(20))
+            print('*'*20)
+            for i, opcao in enumerate(opcoes, 1):
+                print(f"[{i:02d}] {opcao}")
+
+            obter_opcao = int(obter_input_num(prompt='Escolha a opção', minino=1, maximo=len(opcoes)))
+            if obter_opcao == 5:
+                break
+
+            self.opcao_escolhida(obter_opcao)
 
 
 if __name__ == '__main__':
-    menu()
+    sistema = Sistema()
+    sistema.menu()

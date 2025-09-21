@@ -9,16 +9,17 @@ class Livro:
     def __str__(self):
         return f"Título: {self.titulo} Autor: {self.autor} Ano: {self.ano}"
 
+    def __repr__(self):
+        return str(self)
+
     @property
     def disponivel(self):
         return self.estoque > 0
 
     def emprestado(self):
-        if self.disponivel:
-            self.estoque -= 1
-            if self.estoque == 0:
-                return True
-        return False
+        self.estoque -= 1
+        return True
+
 
     def devolvido(self):
         self.cliente_atual = None

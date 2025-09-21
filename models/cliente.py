@@ -1,5 +1,5 @@
 from models.pessoa import Pessoa
-from models.livro import Livro
+from utils.io import obter_input_text
 
 
 class Cliente(Pessoa):
@@ -7,32 +7,18 @@ class Cliente(Pessoa):
 
     def __init__(self, nome, sobrenome):
         super().__init__(nome, sobrenome)
-
-        self.lista_de_livros = []
+        self.is_active = True
         Cliente.lista_de_cliente.append(self)
-
-    def emprestado_lista(self):
-        return self.lista_de_livros
 
     @classmethod
     def lista_cliente(cls):
         return cls.lista_de_cliente
 
-    @classmethod
-    def lista_cliente_nomes(cls):
-        return [str(cliente) for cliente in cls.lista_de_cliente]
 
-    def emprestar(self, livro: Livro):
-        if livro.emprestado():
-            livro.cliente_atual = self
-            self.lista_de_livros.append(livro)
-            return True
-        return False
-
-    def devolver(self, livro: Livro):
-        if livro in self.lista_de_livros:
-            livro.cliente_atual = None
-            livro.devolvido()
-            self.lista_de_livros.remove(livro)
-            return True
-        return False
+def cadastrar_cliente():
+    print('Cadastro de cliente')
+    nome = obter_input_text(prompt='Nome')
+    sobrenome = obter_input_text(prompt='Sobrenome')
+    cliente = Cliente(nome, sobrenome)
+    print(f"Cliente {cliente.nome_completo} cadastrado com sucesso!")
+    return cliente
