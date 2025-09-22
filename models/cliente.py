@@ -16,9 +16,11 @@ class Cliente(Pessoa):
 
 
 def cadastrar_cliente():
-    print('Cadastro de cliente')
+    print('*'*50)
+    print('Cadastro de cliente'.center(50))
+    print('*'*50)
     nome = obter_input_text(prompt='Nome')
     sobrenome = obter_input_text(prompt='Sobrenome')
     cliente = Cliente(nome, sobrenome)
-    print(f"Cliente {cliente.nome_completo} cadastrado com sucesso!")
+    print(f"Cliente {cliente.nome_completo} cadastrado com sucesso!\n")
     return cliente

@@ -21,11 +21,12 @@ class EmprestimoService:
         return cls.lista_de_livros
 
     @classmethod
-    def devolver(cls, livro: Livro, quantidade):
-        if livro in cls.lista_de_livros:
+    def devolver(cls, cliente, livro: Livro, quantidade):
+        itens_para_remover = [(client, livr) for client, livr in cls.lista_de_livros if client == cliente and livr == livro]
+        if len(itens_para_remover) >= quantidade:
             for _ in range(quantidade):
                 livro.devolvido()
-                cls.lista_de_livros.remove(livro)
+                cls.lista_de_livros.remove((cliente, livro))
             return True
         return False
 
@@ -65,12 +66,12 @@ def mostrar_tela_dos_livros():
     return len(livros), livros
 
 
-def exbir_livros_disponiveis(livros):
+def exibir_livros_disponiveis(livros):
     print('*'*100)
     print(" LIVROS DISPONÍVEIS ".center(100))
     print('*'*100)
     for i, livro in enumerate(livros):
-        print(f"{i} - {livro}")
+        print(f"[{i:02d}] {livro}")
     print('*'*100)
 
 
@@ -100,7 +101,7 @@ def emprestar_livro(cliente=None):
     cliente_escolhido = escolher_cliente(cliente)
 
     print(f"Empréstimo para cliente: {cliente_escolhido}")
-    print('Escolha um livro')
+    print('Escolha um livro\n')
 
     livros_disponiveis = obter_livros_disponiveis()
 
@@ -108,7 +109,7 @@ def emprestar_livro(cliente=None):
         print("Nenhum livro disponível para empréstimo")
         return None
 
-    exbir_livros_disponiveis(livros_disponiveis)
+    exibir_livros_disponiveis(livros_disponiveis)
 
     escolha = obter_input_num(
         prompt='Escolha a opção',
@@ -122,7 +123,7 @@ def emprestar_livro(cliente=None):
     print(f"Livro: {livro_escolhido.titulo} ({livro_escolhido.estoque}x)")
     quantidade = obter_input_num('Qual a quantidade desejada?', minino=1, maximo=livro_escolhido.estoque)
     if emprestar.emprestar(cliente_escolhido, livro_escolhido, quantidade):
-        print(f"Livro '{livro_escolhido.titulo}' emprestado com sucesso para {cliente_escolhido}!")
+        print(f"Livro '{livro_escolhido.titulo}' emprestado com sucesso para {cliente_escolhido}!\n")
         salvar_historico(str(cliente_escolhido), livro_escolhido, 'Emprestado')
     else:
         print("Erro: Livro já está emprestado")
@@ -139,29 +140,37 @@ def devolver_livro(emprestado: EmprestimoService, cliente=None):
         print(f"Cliente {cliente_escolhido} não tem livro(s) emprestados")
         return None
 
-    print(f"Devolvendo pelo cliente: {cliente_escolhido}")
-    print("Qual livro deseja devolver?")
+    print('*'*50)
+    print('DEVOLVENDO'.center(50))
+    print('*'*50)
+    print(f"CLIENTE: {cliente_escolhido}".center(50))
+    print('*'*50)
 
-    livros_do_cliente = [livro for cliente, livro in livros_emprestados.lista_de_livros if cliente == cliente_escolhido]
+
+
+    livros_do_cliente = [livro for cliente, livro in livros_emprestados.emprestado_lista() if cliente == cliente_escolhido]
 
     contagem = Counter(livros_do_cliente)
 
     if len(contagem.items()) > 1:
+        print('*'*50)
+        print("Qual livro deseja devolver".center(50))
+        print('*'*50)
         for i, (books, qtd) in enumerate(contagem.items()):
             print(f"[{i:02d}] - {books} ({qtd}x)")
 
         escolha = obter_input_num(
             prompt='Escolha a opção',
             minino=0,
-            maximo=len(livros_emprestados.lista_de_livros) - 1
+            maximo=len(contagem) - 1
         )
         livro_escolhido = list(contagem.keys())[escolha]
     else:
         livro_escolhido = list(contagem.keys())[0]
 
-    print(f"Livro: {livro_escolhido.titulo} ({livro_escolhido.estoque}x)")
-    quantidade = obter_input_num('Qual a quantidade desejada devolver?', minino=1, maximo=len(contagem.values()))
-    if livros_emprestados.devolver(livro_escolhido, quantidade):
+    print(f"\nLivro: {livro_escolhido.titulo} ({contagem[livro_escolhido]}x)")
+    quantidade = obter_input_num('Qual a quantidade desejada devolver', minino=1, maximo=contagem[livro_escolhido])
+    if livros_emprestados.devolver(cliente_escolhido, livro_escolhido, quantidade):
         print(f"Livro '{livro_escolhido.titulo}' devolvido com sucesso!")
         salvar_historico(str(cliente_escolhido), livro_escolhido, 'Devolvido')
         return None

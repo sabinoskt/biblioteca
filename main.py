@@ -42,9 +42,9 @@ class Sistema:
                 'Sair'
             ]
 
-            print('*'*20)
-            print(' MENU '.center(20))
-            print('*'*20)
+            print('*'*50)
+            print(' MENU '.center(50))
+            print('*'*50)
             for i, opcao in enumerate(opcoes, 1):
                 print(f"[{i:02d}] {opcao}")
 

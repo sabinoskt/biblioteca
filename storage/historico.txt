@@ -384,3 +384,48 @@
 [21/09/2025 17:32] | Cliente: Chandley Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
 [21/09/2025 17:34] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
 [21/09/2025 17:34] | Cliente: Chandley Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 19:14] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:18] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:27] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:29] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:30] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:31] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:34] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:34] | Cliente: Gabriel Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 19:35] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:35] | Cliente: Gabriel Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 19:37] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:37] | Cliente: Gabriel Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 19:39] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:42] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:46] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:47] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:48] | Cliente: gabriel wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:49] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:53] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 19:56] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:16] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:33] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:34] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:37] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:39] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:40] | Cliente: Gabnriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:41] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:42] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:58] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:59] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:59] | Cliente: Gabriel Wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:59] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:59] | Cliente: Gabriel Wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 20:59] | Cliente: Gabriel Wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:00] | Cliente: Gabriel Wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:06] | Cliente: Gabe Wul [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:10] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:11] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:13] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:13] | Cliente: Gabriel Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 21:14] | Cliente: Gabriel Wilson [Devolvido] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 21:15] | Cliente: Gabriel Wilson [Emprestado] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:15] | Cliente: Chandley Wilson [Emprestado] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
+[21/09/2025 21:15] | Cliente: Gabriel Wilson [Devolvido] | Título: 1984 Autor: George Orwell Ano: 1949
+[21/09/2025 21:16] | Cliente: Chandley Wilson [Devolvido] | Título: Cem Anos de Solidão Autor: Gabriel García Márquez Ano: 1967
