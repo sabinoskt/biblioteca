@@ -30,7 +30,6 @@ class Sistema:
                     devolver_livro(self.emprestimo, self.cliente_atual)
             case _: print("Não encontrado!!!")
 
-
     # Menu
     def menu(self):
         while True:

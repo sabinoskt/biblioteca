@@ -146,8 +146,6 @@ def devolver_livro(emprestado: EmprestimoService, cliente=None):
     print(f"CLIENTE: {cliente_escolhido}".center(50))
     print('*'*50)
 
-
-
     livros_do_cliente = [livro for cliente, livro in livros_emprestados.emprestado_lista() if cliente == cliente_escolhido]
 
     contagem = Counter(livros_do_cliente)

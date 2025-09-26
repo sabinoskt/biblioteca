@@ -20,7 +20,6 @@ class Livro:
         self.estoque -= 1
         return True
 
-
     def devolvido(self):
         self.cliente_atual = None
         self.estoque += 1
