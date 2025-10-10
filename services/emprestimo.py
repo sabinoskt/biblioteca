@@ -22,7 +22,9 @@ class EmprestimoService:
 
     @classmethod
     def devolver(cls, cliente, livro: Livro, quantidade):
-        itens_para_remover = [(client, livr) for client, livr in cls.lista_de_livros if client == cliente and livr == livro]
+        itens_para_remover = [
+            (client, livr) for client, livr in cls.lista_de_livros if client == cliente and livr == livro
+        ]
         if len(itens_para_remover) >= quantidade:
             for _ in range(quantidade):
                 livro.devolvido()
@@ -146,7 +148,13 @@ def devolver_livro(emprestado: EmprestimoService, cliente=None):
     print(f"CLIENTE: {cliente_escolhido}".center(50))
     print('*'*50)
 
-    livros_do_cliente = [livro for cliente, livro in livros_emprestados.emprestado_lista() if cliente == cliente_escolhido]
+    livros_do_cliente = [
+        livro for cliente, livro in livros_emprestados.emprestado_lista() if cliente == cliente_escolhido
+    ]
+
+    if not livros_do_cliente:
+        print(f"Cliente {cliente_escolhido} não tem livro(s) emprestados")
+        return None
 
     contagem = Counter(livros_do_cliente)
 
